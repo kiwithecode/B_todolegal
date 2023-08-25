@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Crea un entorno virtual
-apt install python3.8-venv
+#apt install python3.8-venv
 source .venv/bin/activate
 
 # Instala dependencias
