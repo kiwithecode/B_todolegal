@@ -6,6 +6,3 @@ source .venv/bin/activate
 
 # Instala dependencias
 #pip install -r requirements.txt
-
-# Correr pp
-flask run
