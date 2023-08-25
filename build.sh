@@ -2,7 +2,9 @@
 
 # Crea un entorno virtual
 #apt install python3.8-venv
+echo "inicia environment"
 source .venv/bin/activate
 
 # Instala dependencias
-#pip install -r requirements.txt
+echo "instala dependencias"
+pip install -r requirements.txt
