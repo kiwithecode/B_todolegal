@@ -6,5 +6,5 @@ echo "inicia environment"
 source .venv/bin/activate
 
 # Instala dependencias
-echo "instala dependencias"
-pip install -r requirements.txt
+#echo "instala dependencias"
+#pip install -r requirements.txt

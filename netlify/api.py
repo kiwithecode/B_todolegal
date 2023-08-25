@@ -2,7 +2,7 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
-@app.route('../app.py')
+@app.route('app.py')
 def index():
     return jsonify({"message": "Hello, Netlify!"})
 
